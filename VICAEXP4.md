@@ -37,7 +37,8 @@ To find the sum of 'n' natural numbers using a WHILE loop in LabVIEW.
 
 ## Output
 
-<img width="1907" height="1182" alt="image" src="https://github.com/user-attachments/assets/12e0f314-8aa9-4318-a023-df81653a2bc8" />
+<img width="1902" height="1177" alt="image" src="https://github.com/user-attachments/assets/ffb87946-f43a-4226-88dc-acfbea97bb32" />
+
 
 
 ##  Result
